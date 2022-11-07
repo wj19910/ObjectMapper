@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary = 'JSON Object mapping written in Swift'
   s.homepage = 'https://github.com/tristanhimmelman/ObjectMapper'
   s.authors = { 'Tristan Himmelman' => 'tristanhimmelman@gmail.com' }
-  s.source = { :git => 'https://code.aliyun.com/wangjing-sj/ObjectMapper.git', :branch => 'v3.4.2.fix' }
+  s.source = { :git => 'https://github.com/wj19910/ObjectMapper.git', :branch => 'v3.4.2.fix' }
 
   s.watchos.deployment_target = '2.0'
   s.ios.deployment_target = '8.0'
